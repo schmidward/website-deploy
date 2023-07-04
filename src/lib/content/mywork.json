@@ -7,7 +7,7 @@
                     "slug": "Riverfront Developments",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2023-05-24_ES_Mike Sertle_Lower-End-2.jpg",
+                            "src": "./images/2023-05-24_ES_Mike Sertle_Lower-End-2.jpg",
                             "alt": "Mike Sertle in a restored wetland in Illinois."
                         },
                         "caption": {
@@ -37,7 +37,7 @@
                     "slug": "Workforce Development",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2023-04-19_ES_SWIC-2.jpg",
+                            "src": "./images/2023-04-19_ES_SWIC-2.jpg",
                             "alt": "Two students discuss how to machine a metal piece."
                         },
                         "caption": {
@@ -62,7 +62,7 @@
                     "slug": "Ukraine Shipments",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2022-08-09_USAF_Ukraine-Transport.jpg",
+                            "src": "./images/2022-08-09_USAF_UKRAINE-TRANSPORT.jpg",
                             "alt": "United States Airmen load supplies onto an airplane."
                         },
                         "caption": {
@@ -93,7 +93,7 @@
                     "slug": "Springfield Investigation",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2022-10-18-BM-LITTON-ILLO.jpeg",
+                            "src": "./images/2022-10-18-BM-LITTON-ILLO.jpeg",
                             "alt": "Photo Illustration"
                         },
                         "caption": {
@@ -118,7 +118,7 @@
                     "slug": "Military Families Moving",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2022-11-16_LK_HOUSING-IN-COLORADO-SPRINGS.jpeg",
+                            "src": "./images/2022-11-16_LK_HOUSING-IN-COLORADO-SPRINGS.jpeg",
                             "alt": "Homes line a stree with the Colorado mountains in the background."
                         },
                         "caption": {
@@ -147,7 +147,7 @@
                     "slug": "Space Force Fitness Tests",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2022-06-09_ES_AIR-FORCE-FITNESS-TEST.jpeg",
+                            "src": "./images/2022-06-09_ES_AIR-FORCE-FITNESS-TEST.jpeg",
                             "alt": "An airman in runs along an outdoor track."
                         },
                         "caption": {
@@ -177,7 +177,7 @@
                     "slug": "Escape from Ukraine",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2022-04-22_BM_ZRYBNIAKS.jpeg",
+                            "src": "./images/2022-04-22_BM_ZRYBNIAKS.jpeg",
                             "alt": "The Zrybniak family outside of their home in St. Charles, MO."
                         },
                         "caption": {
@@ -203,7 +203,7 @@
                     "slug": "Amazon Warehouse Investiagion",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2021-12-22_BM_EDVL-WAREHOUSE.jpeg",
+                            "src": "./images/2021-12-22_BM_EDVL-WAREHOUSE.jpeg",
                             "alt": "A police officer talks with a bystander infront of a partially destroyed Amazon warehouse."
                         },
                         "caption": {
@@ -237,7 +237,7 @@
                     "slug": "Illinois Redistricting",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2021-11-10_BM_OFALLON.jpeg",
+                            "src": "./images/2021-11-10_BM_OFALLON.jpeg",
                             "alt": "South Lincoln Avenue in O'Fallon, Illinois."
                         },
                         "caption": {
@@ -262,7 +262,7 @@
                     "slug": "Latino Census feature",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2021-11-15_BM_LATINO-FEATURE.jpeg",
+                            "src": "./images/2021-11-15_BM_LATINO-FEATURE.jpeg",
                             "alt": "The inside of a traditional Mexican restaurant in Fairmont City, Illinois"
                         },
                         "caption": {
@@ -288,7 +288,7 @@
                     "slug": "",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2021-03-20_ES_DEWANDA-CROCHRELL-CAMPAIGNING.jpeg",
+                            "src": "./images/2021-03-20_ES_DEWANDA-CROCHRELL-CAMPAIGNING.jpeg",
                             "alt": "Dewanda Crochrell stands outside a voter's home in Madison, Illinois"
                         },
                         "caption": {
@@ -313,7 +313,7 @@
                     "slug": "",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2021-02-01_DH_POWER-PLANT-DEMOLITION.jpeg",
+                            "src": "./images/2021-02-01_DH_POWER-PLANT-DEMOLITION.jpeg",
                             "alt": "The Woodriver Power station in East Alton, Illinois falls down as it's demolished"
                         },
                         "caption": {
@@ -344,7 +344,7 @@
                     "slug": "Illegal Evictions",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2020_DK_EVICTION-ILLO.png",
+                            "src": "./images/2020_DK_EVICTION-ILLO.png",
                             "alt": "Photo Illustration"
                         },
                         "caption": {
@@ -369,7 +369,7 @@
                     "slug": "Gender Nonconforming Census Feature",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2020_NT_CENSUS-ILLO.png",
+                            "src": "./images/2020_NT_CENSUS-ILLO.png",
                             "alt": "Photo Illustration"
                         },
                         "caption": {
@@ -395,7 +395,7 @@
                     "slug": "Metro East Underground Railroad",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2020-02-26_ES_BROOKLYN-AME-CHAPLE.png",
+                            "src": "./images/2020-02-26_ES_BROOKLYN-AME-CHAPLE.png",
                             "alt": "The Quinn Chapel AME Church in Brooklyn, Illinois"
                         },
                         "caption": {
@@ -426,7 +426,7 @@
                     "slug": "Employers and Marijuana",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2019-11-21_ES_EMPLOYERS-MARIJUANA-PRESENTATION.jpeg",
+                            "src": "./images/2019-11-21_ES_EMPLOYERS-MARIJUANA-PRESENTATION.jpeg",
                             "alt": "Lawyer Benjamin Wesselschmidt gives a presentation infront of dozens of people."
                         },
                         "caption": {
@@ -452,7 +452,7 @@
                     "slug": "Old Home Restorations",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2019-10-30_ES_HOME-RESTORATION.jpeg",
+                            "src": "./images/2019-10-30_ES_HOME-RESTORATION.jpeg",
                             "alt": "A home from the 1880s near Belleville, Illinois' mainstreet"
                         },
                         "caption": {
@@ -477,7 +477,7 @@
                     "slug": "East St. Louis History",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2019-10-14_CH_REGINALD-PETTY.jpeg",
+                            "src": "./images/2019-10-14_CH_REGINALD-PETTY.jpeg",
                             "alt": "Reginald Petty"
                         },
                         "caption": {
@@ -508,7 +508,7 @@
                     "slug": "Terry Sheridan and 9/11",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2018-09-11_SG_TERRY-SHERIDAN.jpeg",
+                            "src": "./images/2018-09-11_SG_TERRY-SHERIDAN.jpeg",
                             "alt": "Terry Sheridan in a WSHU Public Radio Studio"
                         },
                         "caption": {
@@ -533,7 +533,7 @@
                     "slug": "Unsheltered Project",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2018-05-23_UNSHELTERED.png",
+                            "src": "./images/2018-05-23_UNSHELTERED.png",
                             "alt": "Screenshot of the Unsheltered Homepage"
                         },
                         "caption": {
@@ -558,7 +558,7 @@
                     "slug": "Missing Representation",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/2018-03_ES_VIVETT-DUKES.jpeg",
+                            "src": "./images/2018-03_ES_VIVETT-DUKES.jpeg",
                             "alt": "Vivett Dukes"
                         },
                         "caption": {

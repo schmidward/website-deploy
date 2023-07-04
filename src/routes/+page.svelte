@@ -8,7 +8,7 @@
 <section class="relative w-screen h-screen">
     <div 
         class="bg-fixed bg-left-top bg-cover w-full h-full" 
-        style="background-image: url('./src/lib/images/home-image-bikes.jpeg');">
+        style="background-image: url('./images/home-image-bikes.jpeg');">
         <div class="bg-blue/40 w-full h-full">
             <div class="flex flex-col items-center justify-center w-full h-full">
                 <p class="text-white font-semibold text-5xl sm:text-7xl md:text-9xl text-center">Eric D. Schmid</p>
@@ -19,10 +19,10 @@
 </section>
 <section>
     <div class="m-20 md:mr-36 md:ml-36 lg:mr-48 lg:ml-48 md:mt-20 md:mb-20 grid gap-4 grid-cols-2">
-        <img class="object-cover" src="./src/lib/images/2022-02-11_ES_Alicia-Steele.jpeg" alt="Alicia Steel sitting with her son's service dog."/>    
-        <img class="object-cover" src="./src/lib/images/ranch-sunset-crop.jpg" alt="A sunset in Wyoming."/>
-        <img class="object-cover" src="./src/lib/images/2022-08-14_ES_Underground-Cave.jpeg" alt="An underground cave in southern missouri"/>
-        <img class="object-cover" src="./src/lib/images/nascar-crop.jpg" alt="Joey Logano celebrates a victory in the Illinois 300 NASCAR race."/>
+        <img class="object-cover" src="./images/2022-02-11_ES_Alicia-Steele.jpeg" alt="Alicia Steel sitting with her son's service dog."/>    
+        <img class="object-cover" src="./images/ranch-sunset-crop.jpg" alt="A sunset in Wyoming."/>
+        <img class="object-cover" src="./images/2022-08-14_ES_Underground-Cave.jpeg" alt="An underground cave in southern missouri"/>
+        <img class="object-cover" src="./images/nascar-crop.jpg" alt="Joey Logano celebrates a victory in the Illinois 300 NASCAR race."/>
     </div>
 
 <div class="max-w-screen-lg block mr-auto ml-auto text-lg md:text-xl">
