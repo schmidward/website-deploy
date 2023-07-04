@@ -1,0 +1,39 @@
+{
+    "previews": [ 
+        {
+            "year": "",
+            "articles": [
+                {
+                    "slug": "",
+                    "data": {
+                        "img": {
+                            "src": "./src/lib/images/",
+                            "alt": ""
+                        },
+                        "caption": {
+                            "text": "",
+                            "credit": ""
+                        },
+                        "headline": "",
+                        "href": "",
+                        "dek": [
+                            "",
+                            "",
+                            ""
+                        ],
+                        "button": [
+                            {
+                                "text": "",
+                                "href": ""
+                            },
+                            {
+                                "text": "",
+                                "href": ""
+                            }
+                        ]
+                    }
+                } 
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "type": {
+        "name": "Eric D. Schmid",
+        "subhead": "",
+        "dek": "",
+        "links": [
+            {
+                "text": "",
+                "href": ""
+            }
+        ],
+        "projectHed": "",
+        "projects": [
+            {
+                "title": "",
+                "subhead": "",
+                "dek": [
+                    "",
+                    ""
+                ]
+            }
+        ],
+        "experienceHed": "",
+        "experience": [
+            {
+                "title": "",
+                "subhead": "",
+                "date": "",
+                "dek": "",
+                "subdek": [
+                    "",
+                    ""
+                ]
+            }
+        ]
+    }
+}
