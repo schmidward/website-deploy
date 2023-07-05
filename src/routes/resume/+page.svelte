@@ -1,16 +1,16 @@
 <script>
     import resumes from "../../lib/content/resume.json"
     let resume = resumes.journalism;
-    let jrnStyle = 'bg-hover-red border-solid border-4 border-black text-white mt-3 mb-3 p-5 text-center';
+    let jrnStyle = 'bg-hover-red border-solid border-8 border-black text-white mt-3 mb-3 p-5 text-center';
     let softwareStyle = 'bg-red text-white mt-3 mb-3 p-5 text-center hover:bg-hover-red';
     function setToJournalism() {
         resume = resumes.journalism;
-        jrnStyle = 'bg-hover-red text-white mt-3 mb-3 p-5 text-center';
+        jrnStyle = 'bg-hover-red border-solid border-8 border-black text-white mt-3 mb-3 p-5 text-center';
         softwareStyle = 'bg-red text-white mt-3 mb-3 p-5 text-center hover:bg-hover-red';
     } 
     function setToSoftware() {
         resume = resumes.software;
-        softwareStyle = 'bg-hover-red border-solid border-4 border-black text-white mt-3 mb-3 p-5 text-center';
+        softwareStyle = 'bg-hover-red border-solid border-8 border-black text-white mt-3 mb-3 p-5 text-center';
         jrnStyle = 'bg-red text-white mt-3 mb-3 p-5 text-center hover:bg-hover-red';
     }
     
@@ -22,7 +22,7 @@
     <div class="max-w-screen-lg block mr-auto ml-auto">
         <div class="m-10 text-7xl font-semibold text-center">
             Resume
-            <div class="flex flex-col ml-44 mr-44 mt-6 mb-4 text-xl md:ml-0 md:mr-0 md:flex-row md:justify-around">
+            <div class="flex flex-col ml-1/5 mr-1/5 mt-6 mb-4 text-xl md:ml-0 md:mr-0 md:flex-row md:justify-around">
                 <button 
                     class={jrnStyle} 
                     on:click={setToJournalism}
@@ -44,7 +44,7 @@
                     <p class="font-light text-lg mt-2">{resume.dek}</p>
                     <p class="font-extralight text-lg  mt-3">
                         {#each resume.links as link}
-                        {link.text}<span class="text-dark-red hover:text-hover-red"><a href="{link.href}" target="_blank">{link.href}</a></span>
+                        {link.text}<span class="text-dark-red hover:text-hover-red"><a href={link.href} target="_blank">{link.href}</a></span>
                         {/each}
                     </p>
                     {#if resume.projects}
@@ -86,7 +86,7 @@
                         {/each}
                     </div>
                     <div class="flex flex-row lg:flex-col lg:w-3/12">
-                        <div class="w-2/5 lg:w-auto">
+                        <div class="w-2/5 mr-2 lg:w-auto">
                             <p class="text-2xl font-semibold mt-3">{resume.skillsHed}</p>
                             {#each resume.skills as skill}
                             <div class="mb-2">
@@ -97,7 +97,7 @@
                             </div>
                            {/each}
                         </div>
-                        <div class="w-3/5 lg:w-auto">
+                        <div class="w-3/5 ml-2 lg:w-auto">
                             <p class="text-2xl font-semibold mt-3 ">{resume.awardsHed}</p>
                             {#each resume.awards as award}
                                 <div class="mt-2 mb-3">

@@ -8,7 +8,8 @@ export default {
       'dark-red': '#771b1b',
       'grey': '#d2d2d2',
       'blue': '#0e3261',
-      'white': '#ffffff'  
+      'white': '#ffffff',
+      'black': '#000000'  
     },
     fontFamily: {
       sans: ['Titillium Web', 'sans-serif']
@@ -20,7 +21,8 @@ export default {
       margin: {
         '1/5': '20%',
         '2/5': '40%',
-        '1/4': '25%'
+        '1/4': '25%',
+        '1/10': '10%',
       }
     },
   },
