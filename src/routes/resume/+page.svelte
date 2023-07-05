@@ -44,7 +44,7 @@
                     <p class="font-light text-lg mt-2">{resume.dek}</p>
                     <p class="font-extralight text-lg  mt-3">
                         {#each resume.links as link}
-                        {link.text}<span class="text-dark-red hover:text-hover-red"><a href="{link.href}" target="_blank">{link.href}</a></span>
+                        {link.text}<span class="text-dark-red hover:text-hover-red"><a href={link.href} target="_blank">{link.href}</a></span>
                         {/each}
                     </p>
                     {#if resume.projects}
