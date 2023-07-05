@@ -18,7 +18,7 @@
     </div>
 </section>
 <section>
-    <div class="m-20 md:mr-36 md:ml-36 lg:mr-48 lg:ml-48 md:mt-20 md:mb-20 grid gap-4 grid-cols-2">
+    <div class="m-1/10 md:mr-36 md:ml-36 lg:mr-48 lg:ml-48 md:mt-20 md:mb-20 grid gap-4 grid-cols-2">
         <img class="object-cover" src="./images/2022-02-11_ES_Alicia-Steele.jpeg" alt="Alicia Steel sitting with her son's service dog."/>    
         <img class="object-cover" src="./images/ranch-sunset-crop.jpg" alt="A sunset in Wyoming."/>
         <img class="object-cover" src="./images/2022-08-14_ES_Underground-Cave.jpeg" alt="An underground cave in southern missouri"/>
