@@ -3,7 +3,7 @@ A redsign of [www.ericdschmid.com] using Svelte & Tailwindcss.
 
 ## Development Log/Narrative
 
-I started this project intending to use React (and there's even evidence of it if you check out the `react-version` folder.) So why change to Svelte?
+I started this project intending to use React, but on the third itiration of the project I decided to switch the frontend framework to Svelte. So why make the change?
 
 The key reason is becasue I wanted to experiment with the tailwindscss and loading that processor into a react framework was more arduous than I expected. 
 
