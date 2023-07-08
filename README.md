@@ -1,5 +1,5 @@
 # website-redesign
-Redesigning [www.ericdschmid.com] with Svelte + Tailwindcss. 
+A redsign of [www.ericdschmid.com] using Svelte & Tailwindcss. 
 
 ## Development Log/Narrative
 
