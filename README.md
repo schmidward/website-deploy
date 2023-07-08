@@ -5,9 +5,9 @@ A redsign of [www.ericdschmid.com] using Svelte & Tailwindcss.
 
 I started this project intending to use React, but on the third itiration of the project I decided to switch the frontend framework to Svelte. So why make the change?
 
-The key reason is becasue I wanted to experiment with the tailwindscss and loading that processor into a react framework was more arduous than I expected. 
+The key reason is becasue I wanted to experiment with the Tailwindcss framework for CSS styling and loading that processor into a react framework was more arduous than I expected. 
 
-Plus, after some research on Svelte and how it worked, I decided to switch since that framework appeared more suited to the _kind_ of end prodcut I was going for. I'm really attracted to how lightweight it is and that it does server side rendering. That seemed like the best option for a webiste made up of mostly static content that doesn't change all that often. 
+Plus, after some research on Svelte and how it worked, I decided to switch because that framework appeared more suited to the _kind_ of end prodcut I was going for. I'm really attracted to its lightweight nature and that it does server side rendering. That seemed like the best option for a webiste made up of mostly static content that doesn't change all that often. 
 
 This is obviously a work in progress and I try to add to the build as often as possible, but that is challenging given development must come outside of my full-time job.
 
