@@ -25,4 +25,4 @@ Another thing to investigate is whether Netlify is the best option for buildling
 
 © 2023 Eric D. Schmid
 
-Images contained in this repo and published website are *_NOT_* for redistribution. You must contact the original photographer for permission if you wish to use them.
+Images contained in this repo and published website are *_NOT_* for redistribution. You must contact the original photographer for permission if you wish to use them. 
