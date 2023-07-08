@@ -7,9 +7,9 @@ I started this project intending to use React, but on the third itiration of the
 
 The key reason is becasue I wanted to experiment with the Tailwindcss framework for CSS styling and loading that processor into a react framework was more arduous than I expected. 
 
-Plus, after some research on Svelte and how it worked, I decided to switch because that framework appeared more suited to the _kind_ of end prodcut I was going for. I'm really attracted to its lightweight nature and that it does server side rendering. That seemed like the best option for a webiste made up of mostly static content that doesn't change all that often. 
+Plus, after some research on Svelte and how it worked, I decided to switch because that framework appeared more suited to the _kind_ of end prodcut I was going for. I'm really attracted to its lightweight nature and that it does server side rendering. It seemed like the best option for a webiste made up of mostly static content that doesn't change all that often. 
 
-This is obviously a work in progress and I try to add to the build as often as possible, but that is challenging given development must come outside of my full-time job.
+I deployed this website using Netlify on 07/04/2023 and am pleased with the ease that comes with updating and building the site. This repo has two current branches: `main` and `development`. The live version on the web is built from `main` and `development` is where I work on new features or updates for the future.
 
 ## Current Next steps
 
