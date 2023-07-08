@@ -13,13 +13,13 @@ I deployed this website using Netlify on 07/04/2023 and am pleased with the ease
 
 ## Current Next steps
 
-I want to update some of the core content on the website to reflect some of the newer skils I've developed since that content was last updated. This could include a page for coding projects, espeically ones that implement D3 and data visualization. 
+I want to update some of the core content on the website to reflect some of the newer skils I've developed since that content was last updated. This could include a page for coding projects, espeically ones that implement D3 and data visualization. In general, I want to get more into DOM manipulation with Svelte and other ways to make pages responsive and interactive!
 
 I also want to develope individual pages for each of the articles listed in on `/mywork`. This will include styling and formatting for a headeline, description (dek), body content. The challenge is that _some_ of the articles listed also have an audio component and I will need to investigate how to best handle that with Svelte.
 
 I have to think also about how to create the paths to these individual articles and a way to make it a template that's driven by code blocks to self-populate. 
 
-Another thing to investigate is whether Netlify is the best option for buildling and publishing the site.
+Another thing to investigate is whether Netlify is the best option for buildling and publishing the site. It works fine for now but I'm curious if there's a better way to do so. 
 
 ## Copyright information
 
