@@ -18,13 +18,17 @@
                         </p>
                 </div>
             </div>
-            <div class="font-extralight text-sm">
+            <div class="flex flex-col font-extralight text-sm">
                 <img 
                     src= "../../../images/2023-05-24_ES_Mike-Sertle_Lower-End-2.jpg" 
                     alt="The Mississippi River"/>
-                <p>Mike Sertle indicates how high the water can get in a roughly 250-acre restored wetland behind him on Horseshoe Lake in Illinois 
-                    on May 24, 2023. Sertle, who manages wetlands restoration projects on the Mississippi River for Ducks Unlimited, explained that 
-                    these projects help store excess water from river flooding and heavy rains. CREDIT: <em>ERIC SCHMID / ST. LOUIS PUBLIC RADIO</em></p>
+                    <div class="self-end text-xs">
+                        <p><em>ERIC SCHMID / ST. LOUIS PUBLIC RADIO</em></p>
+                    </div>
+                    <div class="mt-1">
+                        <p>Mike Sertle indicates how high the water can get in a roughly 250-acre restored wetland behind him on Horseshoe Lake in Illinois 
+                            on May 24, 2023. This wetland can store excess water from river flooding and heavy rains.</p>        
+                    </div>
             </div>
             <article>
                                 
