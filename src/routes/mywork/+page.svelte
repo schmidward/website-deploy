@@ -38,7 +38,7 @@
                         </div>
                         <div class="flex flex-col">
                             <div class="text-xs self-end">
-                            <em>{article.data.caption.credit}</em>                                
+                                <em>{article.data.caption.credit}</em>                                
                             </div>
                             <p class="text-xs mt-2">
                                 {article.data.caption.text}
