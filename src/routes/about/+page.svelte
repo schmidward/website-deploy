@@ -12,8 +12,8 @@
 </section>
 <section>
     <div class="max-w-screen-lg block mr-auto ml-auto mt-14 mb-14">
-        <div class="flex flex-col md:flex-row">
-            <div class="flex flex-col m-5">
+        <div class="flex flex-col m-5 md:flex-row">
+            <div class="flex flex-col">
                 <img src="./images/headshot-crop.jpg" alt="Eric Schmid" />
                 <div class="flex justify-center mr-5 ml-5">
                     <a  class="bg-red text-white mt-6 mb-3 p-5 text-center hover:bg-hover-red" 
@@ -23,7 +23,7 @@
                 </div>
                 
             </div>
-            <div class="m-5">
+            <div class="">
                 <p class="-m-1">I am originally from of Fort Collins, Colorado but found my way to the Midwest, after a brief four-year stop in New York where I graduated from Stony Brook University in 2018.</p> 
 
                 <p class="mt-7">In 2019, I landed in the St. Louis region—Belleville, IL specifically—to establish St. Louis Public Radio’s coverage of the Metro East. I since moved into the City of St. Louis and in 2022 was promoted to cover economic development across the region’s 2.8 million people.</p>
