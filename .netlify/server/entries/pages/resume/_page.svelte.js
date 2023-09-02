@@ -291,11 +291,11 @@ const resumes = {
 };
 const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let resume = resumes.journalism;
-  let jrnStyle = "bg-hover-red border-solid border-4 border-black text-white mt-3 mb-3 p-5 text-center";
+  let jrnStyle = "bg-hover-red border-solid border-8 border-black text-white mt-3 mb-3 p-5 text-center";
   let softwareStyle = "bg-red text-white mt-3 mb-3 p-5 text-center hover:bg-hover-red";
   console.log(resume);
   return `<section><div class="max-w-screen-lg block mr-auto ml-auto"><div class="m-10 text-7xl font-semibold text-center">Resume
-            <div class="flex flex-col ml-44 mr-44 mt-6 mb-4 text-xl md:ml-0 md:mr-0 md:flex-row md:justify-around"><button${add_attribute("class", jrnStyle, 0)}>Journalism</button>
+            <div class="flex flex-col ml-1/5 mr-1/5 mt-6 mb-4 text-xl md:ml-0 md:mr-0 md:flex-row md:justify-around"><button${add_attribute("class", jrnStyle, 0)}>Journalism</button>
                 <button${add_attribute("class", softwareStyle, 0)}>Software Development
                 </button></div></div>
         <div class="ml-8 mr-8 mb-10 flex flex-col"><hr class="mb-8">
@@ -331,7 +331,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     })}` : ``}
                         </div>`;
   })}</div>
-                    <div class="flex flex-row lg:flex-col lg:w-3/12"><div class="w-2/5 lg:w-auto"><p class="text-2xl font-semibold mt-3">${escape(resume.skillsHed)}</p>
+                    <div class="flex flex-row lg:flex-col lg:w-3/12"><div class="w-2/5 mr-2 lg:w-auto"><p class="text-2xl font-semibold mt-3">${escape(resume.skillsHed)}</p>
                             ${each(resume.skills, (skill) => {
     return `<div class="mb-2"><p class="text-lg leading-none font-semibold mb-2 mt-2">${escape(skill.title)}</p>
                                 ${each(skill.dek, (dek) => {
@@ -339,7 +339,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     })}
                             </div>`;
   })}</div>
-                        <div class="w-3/5 lg:w-auto"><p class="text-2xl font-semibold mt-3 ">${escape(resume.awardsHed)}</p>
+                        <div class="w-3/5 ml-2 lg:w-auto"><p class="text-2xl font-semibold mt-3 ">${escape(resume.awardsHed)}</p>
                             ${each(resume.awards, (award) => {
     return `<div class="mt-2 mb-3"><p class="text-lg font-semibold leading-none">${escape(award.title)}</p>
                                     ${each(award.dek, (dek) => {

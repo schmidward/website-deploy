@@ -4,6 +4,36 @@
             "year": "2023",
             "articles": [
                 {
+                    "slug": "Chicken Salmonella Testing",
+                    "data": {
+                        "img": {
+                            "src": "./images/2023-07-28_ES_Optical-Test-1.jpg",
+                            "alt": "Mai Abuhelwa injects a chicken sample into a prototype salmonella sensor."
+                        },
+                        "caption": {
+                            "text": "University of Missouri Ph.D. student Mai Abuhelwa demonstrates how one of the prototype sensors detects salmonella contamination on July 28, 2023. This sensor uses a laser and fiber optic cables to sense small concentrations of bacteria.",
+                            "credit": "ERIC SCHMID / HARVEST PUBLIC MEDIA"
+                        },
+                        "headline": "Salmonella testing can be a slow process. These researchers want to change that",
+                        "href": "https://www.marketplace.org/2023/08/29/salmonella-testing-can-be-a-slow-process-these-researchers-want-to-change-that/",
+                        "dek": [
+                            "When most of us go to the grocery store and pick out a carton of eggs or package of chicken, we expect those products will not get us sick — as long as they're cooked properly.",
+                            "For the most part that's true, but the food supply chain isn't perfect and contamination sometimes happens.",
+                            "In response, a team of researchers is developing new sensors to detect salmonella contaminiation at many more points in the chicken supply chain."
+                        ],
+                        "button": [
+                            {
+                                "text": "Read here",
+                                "href": ""
+                            },
+                            {
+                                "text": "Listen on Marketplace",
+                                "href": "https://www.marketplace.org/2023/08/29/salmonella-testing-can-be-a-slow-process-these-researchers-want-to-change-that/"
+                            }
+                        ]
+                    }
+                },
+                {
                     "slug": "Riverfront Developments",
                     "data": {
                         "img": {

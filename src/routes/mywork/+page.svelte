@@ -9,7 +9,7 @@
                 <p>My Work</p>
             </div>
             <div class="flex items-center justify-center text-center m-6">
-                <p>Articles published by National Public Radio, St. Louis Public Radio, WSHU Public Radio, and independently.</p>
+                <p>Articles published by American Public Media, National Public Radio, St. Louis Public Radio, Harvest Public Media, WSHU Public Radio, and independently.</p>
             </div>
         </div>
         <div class="ml-5 mr-5">
