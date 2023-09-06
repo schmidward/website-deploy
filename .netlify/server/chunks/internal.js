@@ -170,7 +170,7 @@ const options = {
 		<div class="error">
 			<span class="status">` + status + '</span>\n			<div class="message">\n				<h1>' + message + "</h1>\n			</div>\n		</div>\n	</body>\n</html>\n"
   },
-  version_hash: "1knflz0"
+  version_hash: "12r4ceo"
 };
 function get_hooks() {
   return {};

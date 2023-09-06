@@ -9,7 +9,7 @@
                 <p>My Work</p>
             </div>
             <div class="flex items-center justify-center text-center m-6">
-                <p>Articles published by National Public Radio, St. Louis Public Radio, WSHU Public Radio, and independently.</p>
+                <p>Articles published by American Public Media, National Public Radio, St. Louis Public Radio, Harvest Public Media, WSHU Public Radio, and independently.</p>
             </div>
         </div>
         <div class="ml-5 mr-5">
@@ -28,15 +28,24 @@
             <div class="flex flex-col md:flex-row content-between max-w-full">
                 <!-- Photo on left -->
                 <div class="inline-block md:w-2/5 box-border items-start m-2">
-                    <img 
-                        class="w-full"
-                        src={article.data.img.src} 
-                        alt={article.data.img.alt}
-                    />
-                    <p class="text-xs mt-3">
-                        {article.data.caption.text}
-                    <em>{article.data.caption.credit}</em>
-                    </p>
+                    <div class="flex flex-col">
+                        <div>
+                            <img 
+                                class="w-full"
+                                src={article.data.img.src} 
+                                alt={article.data.img.alt}
+                            />
+                        </div>
+                        <div class="flex flex-col">
+                            <div class="text-xs self-end">
+                                <em>{article.data.caption.credit}</em>                                
+                            </div>
+                            <p class="text-xs mt-2">
+                                {article.data.caption.text}
+
+                            </p>
+                        </div>
+                    </div>
                 </div>
                 <!-- Headline and Description (dek) on right -->
                 <div class="md:w-3/5 items-start justify-end m-2">
