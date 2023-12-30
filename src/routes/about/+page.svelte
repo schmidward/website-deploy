@@ -23,8 +23,8 @@
                 </div>
                 
             </div>
-            <div class="">
-                <p class="-m-1">I am originally from of Fort Collins, Colorado but found my way to the Midwest, after a brief four-year stop in New York where I graduated from Stony Brook University in 2018.</p> 
+            <div class="md:ml-10">
+                <p class="">I am originally from of Fort Collins, Colorado but found my way to the Midwest, after a brief four-year stop in New York where I graduated from Stony Brook University in 2018.</p> 
 
                 <p class="mt-7">In 2019, I landed in the St. Louis region—Belleville, IL specifically—to establish St. Louis Public Radio’s coverage of the Metro East. I since moved into the City of St. Louis and in 2022 was promoted to cover economic development across the region’s 2.8 million people.</p>
 
