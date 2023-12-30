@@ -47,7 +47,7 @@
         <p class="py-3">
             His reporting experience spans breaking hard news to enterprise and investigative features and he excels at producing content native to 
             digital/print and audio/radio platforms. Eric gravitates toward complicated and nuanced stories and he enjoys the challenge of ingesting 
-            and distilling large swaths of information into cohesive, intriguing, and conscice stories. He is adept at covering many topics, though his 
+            and distilling large swaths of information into cohesive, intriguing, and concise stories. He is adept at covering many topics, though his 
             enterprise work regularly returns to stories about the 
                 <span class="text-dark-red hover:text-hover-red"><a href="https://news.stlpublicradio.org/health-science-environment/2023-06-29/wetlands-restoration-is-key-to-avoiding-the-worst-of-future-floods-along-the-mississippi" target="_blank">
                     environment</a></span>, and
@@ -62,7 +62,7 @@
                 Stony Brook University
             </a></span>in 2018 as the valedictorian of the <span class="text-dark-red hover:text-hover-red"><a href="https://www.stonybrook.edu/journalism/" target="_blank">School of Journalism</a></span>.
         </p>
-        <p class="py-3">Lead image by Brian Muñoz. All other photography by Eric Schmid.</p>
+        <p class="py-3">Lead image by Brian Muñoz. All other photography on this page by Eric Schmid.</p>
     </div>
     <div class="flex flex-col mr-1/4 ml-1/4 mt-3 mb-4 md:ml-0 md:mr-0 md:flex-row md:justify-around">
         <a  class="bg-red text-white mt-3 mb-3 p-5 text-center hover:bg-hover-red" 

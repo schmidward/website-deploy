@@ -7,7 +7,7 @@
                     "slug": "",
                     "data": {
                         "img": {
-                            "src": "./src/lib/images/",
+                            "src": "./images/",
                             "alt": ""
                         },
                         "caption": {
@@ -32,7 +32,7 @@
                             }
                         ]
                     }
-                } 
+                }, 
             ]
         }
     ]
