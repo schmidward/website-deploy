@@ -20,7 +20,7 @@
 
 <section>
     <div class="max-w-screen-lg block mr-auto ml-auto">
-        <div class="m-10 text-7xl font-semibold text-center">
+        <!-- <div class="m-10 text-7xl font-semibold text-center">
             Resume
             <div class="flex flex-col ml-1/5 mr-1/5 mt-6 mb-4 text-xl md:ml-0 md:mr-0 md:flex-row md:justify-around">
                 <button 
@@ -35,7 +35,7 @@
                     Software Development
                 </button>
             </div>
-        </div>
+        </div> -->
         <div class="ml-8 mr-8 mb-10 flex flex-col">
             <hr class="mb-8" />
                 <div>
