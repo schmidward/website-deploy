@@ -208,17 +208,17 @@
         "education": [
             {
                 "title": "LaunchCode",
-                "subhead": " - St. Louis, MO — September 2022 - June 2023",
+                "subhead": " - St. Louis, MO",
                 "dek": "30-week full-stack development course in JavaScript, Angular, Java, and Spring Boot"
             },
             {
                 "title": "Investigative Reporters and Editors",
-                "subhead": " - Columbia, MO — August 2022",
+                "subhead": " - Columbia, MO",
                 "dek": "Data Journalism Bootcamp"
             },
             {
                 "title": "Stony Brook University",
-                "subhead": " - Stony Brook, NY — Class of 2018",
+                "subhead": " - Stony Brook, NY",
                 "dek": "Bachelor of Arts in Journalism, Business Management Minor"   
             }
         ],
