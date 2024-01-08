@@ -7,14 +7,14 @@
                     "slug": "River Des Peres",
                     "data": {
                         "img": {
-                            "src": "./images/2023-12-03_ES_River-Des-Peres-1.jpg",
+                            "src": "./images/2019-06-04_BJ_flood_rdp_1.jpg",
                             "alt": "The River Des Peres in St. Louis"
                         },
                         "caption": {
                             "text": "A thin layer of water lines the bottom of the River Des Peres near a storm sewer outlet and pedestrian bridge on Dec. 3 in south St. Louis. The river serves as a drainage channel for the city and frequently has debris and other trash in it.",
-                            "credit": "ERIC SCHMID / ST. LOUIS PUBLIC RADIO"
+                            "credit": "BRENT JONES / ST. LOUIS PUBLIC RADIO"
                         },
-                        "headline": "The River Des Peres is a ‘gross smelly eyesore.’ It doesn’t have to be that way",
+                        "headline": "As climate risks increase, Mississippi River towns look to each other for solutions",
                         "href": "https://www.stlpr.org/health-science-environment/2023-12-20/the-river-des-peres-is-a-gross-smelly-eyesore-it-doesnt-have-to-be-that-way",
                         "dek": [
                             "Many cities are already investing in nature-based solutions, such as removing pavement, building marshes and making room for rivers to flow.",
@@ -23,8 +23,12 @@
                         ],
                         "button": [
                             {
-                                "text": "Read and Listen",
+                                "text": "Listen here",
                                 "href": "https://www.stlpr.org/health-science-environment/2023-12-20/the-river-des-peres-is-a-gross-smelly-eyesore-it-doesnt-have-to-be-that-way"
+                            },
+                            {
+                                "text": "Read on Grist",
+                                "href": "https://grist.org/solutions/as-climate-risks-increase-mississippi-river-towns-look-to-each-other-for-solutions/"
                             }
                         ]
                     }
