@@ -45,17 +45,24 @@
                     part of a team</a></span>. 
             This includes advanced skill with source building, story pitching, public records, long-term coverage planning, interviewing, and audio editing/mixing.</p>
         <p class="py-3">
-            His reporting experience spans breaking hard news to enterprise and investigative features and he excels at producing content native to 
-            digital/print and audio/radio platforms. Eric gravitates toward complicated and nuanced stories and he enjoys the challenge of ingesting 
-            and distilling large swaths of information into cohesive, intriguing, and concise stories. He is adept at covering many topics, though his 
-            enterprise work regularly returns to stories about the 
+            Eric's experience spans breaking and hard news to enterprise and investigative features and his work has appeared in 
+            <span class="text-dark-red hover:text-hover-red"><a href="https://grist.org/" target="_blank">
+                Grist</a></span>, 
+            <span class="text-dark-red hover:text-hover-red"><a href="https://www.marketplace.org/" target="_blank">
+                Marketplace</a></span>,
+            <span class="text-dark-red hover:text-hover-red"><a href="https://www.npr.org/" target="_blank">
+                NPR</a></span>,
+            <span class="text-dark-red hover:text-hover-red"><a href="https://undark.org/" target="_blank">
+                Undark Magazine</a></span>,
+             and other publications. He gravitates toward complicated and nuanced stories and he enjoys the challenge of distilling large swaths of information into cohesive, intriguing, and concise stories. Eric can cover many topics, though his 
+            enterprise work regularly focuses on stories about the 
                 <span class="text-dark-red hover:text-hover-red"><a href="https://news.stlpublicradio.org/health-science-environment/2023-06-29/wetlands-restoration-is-key-to-avoiding-the-worst-of-future-floods-along-the-mississippi" target="_blank">
                     environment</a></span>, and
-                <span class="text-dark-red hover:text-hover-red"><a href="https://news.stlpublicradio.org/economy-business/2023-05-03/st-louis-economic-future-requires-a-lot-more-trained-workers-and-fast" target="_blank">
+                <span class="text-dark-red hover:text-hover-red"><a href="https://www.stlpr.org/economy-business/2023-11-03/why-downtown-st-louis-needs-more-than-just-office-space-to-bounce-back-from-the-pandemic" target="_blank">
                     economics</a></span>.
         </p>
         <p class="py-3">Eric joined St. Louis Public Radio in June 2019 as their first ever Metro East Reporter, tasked with expanding and developing the station’s 
-            coverage of suburban St. Louis communities east of the Mississippi River. In June 2022, he was promoted to cover economic development across St. 
+            coverage of suburban St. Louis communities in Illinois east, of the Mississippi River. In June 2022, he was promoted to cover economic development across St. 
             Louis, a region of 2.8 million people.</p>
         <p class="py-3">Before joining St. Louis Public Radio, Eric held internships at Fox News Channel, NPR member station WSHU Public Radio, and AccuWeather. He graduated from 
             <span class="text-dark-red hover:text-hover-red"><a href="https://www.stonybrook.edu/" target="_blank">
