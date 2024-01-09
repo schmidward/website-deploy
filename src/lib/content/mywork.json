@@ -227,7 +227,11 @@
                                 {
                                 "text": "Read the full Investigation",
                                 "href": "https://news.stlpublicradio.org/health-science-environment/2022-10-19/missouri-knew-of-contamination-in-springfields-groundwater-decades-before-anyone-told-residents"
-                            }
+                                },
+                                {
+                                    "text": "Listen on Science Friday",
+                                    "href": "https://www.sciencefriday.com/segments/groundwater-contamination-missouri/"
+                                }
                         ]
                     }
                 },
