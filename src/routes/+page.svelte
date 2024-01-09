@@ -67,7 +67,7 @@
         <p class="py-3">Before joining St. Louis Public Radio, Eric held internships at Fox News Channel, NPR member station WSHU Public Radio, and AccuWeather. He graduated from 
             <span class="text-dark-red hover:text-hover-red"><a href="https://www.stonybrook.edu/" target="_blank">
                 Stony Brook University
-            </a></span>in 2018 as the valedictorian of the <span class="text-dark-red hover:text-hover-red"><a href="https://www.stonybrook.edu/journalism/" target="_blank">School of Journalism</a></span>.
+            </a></span>as the valedictorian of the <span class="text-dark-red hover:text-hover-red"><a href="https://www.stonybrook.edu/journalism/" target="_blank">School of Journalism</a></span>.
         </p>
         <p class="py-3">Lead image by Brian Muñoz. All other photography on this page by Eric Schmid.</p>
     </div>
