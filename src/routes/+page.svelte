@@ -46,13 +46,13 @@
             This includes advanced skill with source building, story pitching, public records, long-term coverage planning, interviewing, and audio editing/mixing.</p>
         <p class="py-3">
             Eric's experience spans breaking and hard news to enterprise and investigative features and his work has appeared in 
-            <span class="text-dark-red hover:text-hover-red"><a href="https://grist.org/" target="_blank">
+            <span class="text-dark-red hover:text-hover-red"><a href="https://grist.org/author/eric-schmid-st-louis-public-radio/" target="_blank">
                 Grist</a></span>, 
-            <span class="text-dark-red hover:text-hover-red"><a href="https://www.marketplace.org/" target="_blank">
+            <span class="text-dark-red hover:text-hover-red"><a href="https://www.marketplace.org/author/eric-schmid/" target="_blank">
                 Marketplace</a></span>,
             <span class="text-dark-red hover:text-hover-red"><a href="https://www.npr.org/" target="_blank">
                 NPR</a></span>,
-            <span class="text-dark-red hover:text-hover-red"><a href="https://undark.org/" target="_blank">
+            <span class="text-dark-red hover:text-hover-red"><a href="https://undark.org/undark-author/eric-schmid-st-louis-public-radio/" target="_blank">
                 Undark Magazine</a></span>,
              and other publications. He gravitates toward complicated and nuanced stories and he enjoys the challenge of distilling large swaths of information into cohesive, intriguing, and concise stories. Eric can cover many topics, though his 
             enterprise work regularly focuses on stories about the 
