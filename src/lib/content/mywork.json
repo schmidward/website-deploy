@@ -1,4 +1,33 @@
 {
+    "featured": [
+        {
+            "position": 1,
+            "data": {
+                "img": {
+                    "src":"./images/2023-08-11_ES_Barge-1.jpg",
+                    "alt": "A barge approaches a lock."
+                }
+            }   
+        },
+        {
+            "position": 1,
+            "data": {
+                "img": {
+                    "src":"./images/2023-08-11_ES_Barge-1.jpg",
+                    "alt": "A barge approaches a lock."
+                }
+            }   
+        },
+        {
+            "position": 1,
+            "data": {
+                "img": {
+                    "src":"./images/2023-08-11_ES_Barge-1.jpg",
+                    "alt": "A barge approaches a lock."
+                }
+            }   
+        }
+    ],
     "previews": [ 
         {
             "year": "2023",

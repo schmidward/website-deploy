@@ -14,33 +14,30 @@
         </div>
         <div class="ml-5 mr-5">
             <hr />
+            <div class="flex flex-col md:flex-row mt-1">
+                {#each data.featured as articlePreview}
+                    <div class="">
+                        <div class="inline-block">
+                            <div class="mt-2 mb-4 md:mr-1 md:ml-1">
+                                <img 
+                                    class="w-full"
+                                    src={articlePreview.data.img.src}
+                                    alt={articlePreview.data.img.alt}
+                                />
+                            </div>
+                            <div>
+                                <h1>headline</h1>
+                            </div>
+                        </div>
+                    </div>
+                {/each}
+            </div>
+        </div>
+        <div class="ml-5 mr-5">
+            <hr />
             
             <!-- For each year in the JSON file display the year -->
-
-            <div class="flex flex-col md:flex-row mt-5">
-                <div class="mt-2 md:mr-1 md:ml-1">
-                    <img 
-                        class="w-full"
-                        src="./images/2019-06-04_BJ_flood_rdp_1.jpg"
-                        alt="Peen"
-                    />
-                </div>
-                <div class="mt-2 md:mr-1 md:ml-1">
-                    <img 
-                        class="w-full"
-                        src="./images/2019-06-04_BJ_flood_rdp_1.jpg"
-                        alt="Peen"
-                    />
-                </div>
-                <div class="mt-2 md:mr-1 md:ml-1">
-                    <img 
-                        class="w-full"
-                        src="./images/2019-06-04_BJ_flood_rdp_1.jpg"
-                        alt="Peen"
-                    />
-                </div>
-
-            </div>
+            
 
             {#each data.previews as preview}
             <p  class="text-4xl font-semibold ml-2 mt-3 mb-2">
