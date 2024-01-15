@@ -1,5 +1,5 @@
 <script>
-    import previews from '../../lib/content/mywork.json';
+    import data from '../../lib/content/mywork.json';
 </script>
 
 <section>
@@ -17,7 +17,32 @@
             
             <!-- For each year in the JSON file display the year -->
 
-            {#each previews.previews as preview}
+            <div class="flex flex-col md:flex-row mt-5">
+                <div class="mt-2 md:mr-1 md:ml-1">
+                    <img 
+                        class="w-full"
+                        src="./images/2019-06-04_BJ_flood_rdp_1.jpg"
+                        alt="Peen"
+                    />
+                </div>
+                <div class="mt-2 md:mr-1 md:ml-1">
+                    <img 
+                        class="w-full"
+                        src="./images/2019-06-04_BJ_flood_rdp_1.jpg"
+                        alt="Peen"
+                    />
+                </div>
+                <div class="mt-2 md:mr-1 md:ml-1">
+                    <img 
+                        class="w-full"
+                        src="./images/2019-06-04_BJ_flood_rdp_1.jpg"
+                        alt="Peen"
+                    />
+                </div>
+
+            </div>
+
+            {#each data.previews as preview}
             <p  class="text-4xl font-semibold ml-2 mt-3 mb-2">
                 {preview.year}
             </p>
