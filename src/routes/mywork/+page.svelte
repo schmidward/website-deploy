@@ -12,19 +12,19 @@
                 <p>Articles published by Grist, American Public Media, National Public Radio, St. Louis Public Radio, Harvest Public Media, WSHU Public Radio, and independently.</p>
             </div>
         </div>
-        <div class="ml-5 mr-5">
+        <div class="ml-5 mr-5 mb-5">
             <hr />
             <p  class="text-4xl font-semibold ml-2 mt-3 mb-2">
                 Featured
             </p>
             <div class="flex flex-col md:flex-row mt-1 mb-1">
                 {#each data.featured as articlePreview}
-                    <div class="">
+                    <div class="w-1/3">
                         <div class="inline-block mr-2 ml-2">
                             <div class="mt-2 mb-4 md:mb-2 md:mr-1 md:ml-1">
                                 <a href={articlePreview.data.href}>
                                 <img 
-                                    class="w-full"
+                                    class="w-full h-40"
                                     src={articlePreview.data.img.src}
                                     alt={articlePreview.data.img.alt}
                                 />
