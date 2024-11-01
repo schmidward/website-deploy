@@ -1,4 +1,39 @@
 {
+    "featured": [
+        {
+            "position": 1,
+            "data": {
+                "img": {
+                    "src": "./images/2022-10-18-BM-LITTON-ILLO.jpeg",
+                    "alt": "Photo Illustration"
+                },
+                "hed": "Missouri knew of contamination in Springfield’s groundwater decades before anyone told residents",
+                "href": "https://news.stlpublicradio.org/health-science-environment/2022-10-19/missouri-knew-of-contamination-in-springfields-groundwater-decades-before-anyone-told-residents"
+            }   
+        },
+        {
+            "position": 2,
+            "data": {
+                "img": {
+                    "src":"./images/2019-06-04_BJ_flood_rdp_1.jpg",
+                    "alt": "Flooding of a drainage ditch."
+                },
+                "hed": "As climate risks increase, Mississippi River towns look to each other for solutions",
+                "href": "https://www.stlpr.org/health-science-environment/2023-12-20/the-river-des-peres-is-a-gross-smelly-eyesore-it-doesnt-have-to-be-that-way"
+            }   
+        },
+        {
+            "position": 3,
+            "data": {
+                "img": {
+                    "src":"./images/2023-07-28_ES_Optical-Test-1.jpg",
+                    "alt": "Mai Abuhelwa injects a chicken sample into a prototype salmonella sensor."
+                },
+                "hed": "Salmonella testing can be a slow process. These researchers want to change that",
+                "href": "https://www.marketplace.org/2023/08/29/salmonella-testing-can-be-a-slow-process-these-researchers-want-to-change-that/"
+            }   
+        }
+    ],
     "previews": [ 
         {
             "year": "2024",
