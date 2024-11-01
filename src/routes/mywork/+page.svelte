@@ -12,7 +12,7 @@
                 <p>Articles published by Grist, American Public Media, National Public Radio, St. Louis Public Radio, Harvest Public Media, WSHU Public Radio, and independently.</p>
             </div>
         </div>
-        <!-- <div class="ml-5 mr-5 mb-5">
+        <div class="ml-5 mr-5 mb-5">
             <hr />
             <p  class="text-4xl font-semibold ml-2 mt-3 mb-2">
                 Featured
@@ -41,7 +41,7 @@
                     </div>
                 {/each}
             </div>
-        </div> -->
+        </div>
         <div class="ml-5 mr-5">
             <hr />
             
