@@ -17,20 +17,20 @@
             <p  class="text-4xl font-semibold ml-2 mt-3 mb-2">
                 Featured
             </p>
-            <div class="flex flex-col md:flex-row mt-1 mb-1">
+            <div class="flex flex-col md:flex-row mt-5 mb-1 md:mb-7">
                 {#each data.featured as articlePreview}
-                    <div class="w-1/3">
-                        <div class="inline-block mr-2 ml-2">
+                    <div class="md:w-1/3 md:mb-0 mb-7">
+                        <div class="flex flex-col md:justify-self-center mr-2 ml-2">
                             <div class="mt-2 mb-4 md:mb-2 md:mr-1 md:ml-1">
                                 <a href={articlePreview.data.href}>
                                 <img 
-                                    class="w-full h-40"
+                                    class="object-cover md:w-60 md:h-40"
                                     src={articlePreview.data.img.src}
                                     alt={articlePreview.data.img.alt}
                                 />
                                 </a>
                             </div>
-                            <div class="md:ml-1 text-2xl font-medium">
+                            <div class="md:ml-1 text-2xl font-medium md:w-60">
                                 <a href={articlePreview.data.href}
                                 target="_blank"
                                 >
