@@ -20,7 +20,7 @@
             <div class="flex flex-col md:flex-row mt-5 mb-1 md:mb-7">
                 {#each data.featured as articlePreview}
                     <div class="md:w-1/3 md:mb-0 mb-7">
-                        <div class="flex flex-col md:justify-self-center mr-2 ml-2">
+                        <div class="flex flex-col md:justify-self-center pr-2 pl-2 mr-2 ml-2">
                             <div class="mt-2 mb-4 md:mb-2 md:mr-1 md:ml-1">
                                 <a href={articlePreview.data.href}>
                                 <img 
@@ -34,7 +34,7 @@
                                 <a href={articlePreview.data.href}
                                 target="_blank"
                                 >
-                                    <p>{articlePreview.data.hed}</p>
+                                    <p class="hover:text-hover-red hover:underline hover:underline-offset-1">{articlePreview.data.hed}</p>
                                 </a>
                             </div>
                         </div>
