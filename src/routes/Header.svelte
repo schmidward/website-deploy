@@ -55,7 +55,10 @@
                         <a on:click={menuReset} on:keypress={menuReset} class="md:p-4 block px-2 hover:text-grey" href="/mywork">My Work</a>
                     </li>
                     <li>
-                        <a on:click={menuReset} on:keypress={menuReset} class="md:p-4 block px-2 hover:text-grey" href="/about">About Me</a>
+                        <a on:click={menuReset} on:keypress={menuReset} class="md:p-4 block px-2 hover:text-grey" href="/about">About</a>
+                    </li>
+                    <li>
+                        <a on:click={menuReset} on:keypress={menuReset} class="md:p-4 block px-2 hover:text-grey" href="/speaking">Speaking</a>    
                     </li>
                     <li>
                         <a on:click={menuReset} on:keypress={menuReset} class="md:p-4 block px-2 hover:text-grey" href="/resume">Resume</a>    
