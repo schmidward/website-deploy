@@ -47,10 +47,6 @@
                         ],
                         "button": [
                             {
-                                "text": "Read and Listen",
-                                "href": "https://www.stlpr.org/economy-business/2024-09-23/kernza-could-make-agriculture-more-sustainable"
-                            },
-                            {
                                 "text": "Listen on Science Friday",
                                 "href": "https://www.sciencefriday.com/segments/kernza-beer-sustainable-grain/"
                             },
@@ -135,7 +131,7 @@
                         "href": "https://www.stlpr.org/economy-business/2024-06-13/precision-agriculture-farming-revolution-is-coming",
                         "dek": [
                             "The prospect of precision agriculture has existed for decades, but many of the technologies and techniques that will enable it have been slow to catch on.",
-                            "",
+                            "One company hopes to speed that up with the development of a new rapid and high-precision soil sensor.",
                             ""
                         ],
                         "button": [
@@ -158,15 +154,14 @@
                             "alt": "A man smiles among a group seated together."
                         },
                         "caption": {
-                            "text": "Arthur Holt 52, of Sappington, meets other tech workers during a working event hosted by Founders Lounge at Aloft St. Louis Cortex in the Central West End in April 2024. According to the 2023 Jobs Report from Tech STL, there is a slowdown in tech job postings.",
+                            "text": "Arthur Holt 52, of Sappington, meets other tech workers during a working event hosted by Founders Lounge at Aloft St. Louis Cortex in the Central West End in April 2024.",
                             "credit": "ERIC LEE / ST. LOUIS PUBLIC RADIO"
                         },
                         "headline": "Decline in tech job listings puts a focus on local startups, but challenges abound",
                         "href": "https://www.stlpr.org/economy-business/2024-05-09/st-louis-tech-job-decline-puts-focus-on-startups",
                         "dek": [
-                            "The number of job postings...",
-                            "To keep St. Louis’ existing tech talent, some regional leaders are pushing for more support for startups. But it’s not a quick or easy fix.",
-                            "TKTK"
+                            "The number of job postings for tech positions in the St. Louis region sharply declined from 2022 to 2023.",
+                            "To hold onto that existing tech talent, some regional leaders are pushing for more support for startups. But it’s not a quick or easy fix."
                         ],
                         "button": [
                             {
@@ -184,19 +179,18 @@
                     "slug": "Vacant Properties",
                     "data": {
                         "img": {
-                            "src": "./images/2019-06-04_BJ_flood_rdp_1.jpg",
+                            "src": "./images/2024-02-19_EL_demolition07.jpg",
                             "alt": "A row of buildings being demolished."
                         },
                         "caption": {
-                            "text": "",
+                            "text": "A crew member from Bellon Wrecking surveys after the first step in a demolition job on South Kingshighway last month in Forest Park Southeast.",
                             "credit": "BRIAN MUÑOZ / ST. LOUIS PUBLIC RADIO"
                         },
                         "headline": "What a row of crumbling Kingshighway homes can tell us about St. Louis' vacancy",
                         "href": "https://www.stlpr.org/economy-business/2024-03-15/what-a-row-of-crumbling-kingshighway-homes-can-tell-us-about-st-louis-vacancy",
                         "dek": [
-                            "St. Louis has roughly 20,000 vacant properties, most of which are in north city and have no buildings on them.",
-                            "",
-                            ""
+                            "The demolition of seven prominent vacant properties St. Louis' central corriodr puts a spotlight on the city's roughly 20,000 vacant properties.",
+                            "Most are tucked away in parts of north St. Louis and rarely seen by passers by."
                         ],
                         "button": [
                             {
@@ -210,19 +204,18 @@
                     "slug": "CO2 Pipelines",
                     "data": {
                         "img": {
-                            "src": "./images/2019-06-04_BJ_flood_rdp_1.jpg",
+                            "src": "./images/2023-10-09_ES_kenny-davis-2.jpg",
                             "alt": "A man stands next to a gas pipeline flag"
                         },
                         "caption": {
-                            "text": "",
+                            "text": "Kenny Davis stands next to the yellow tag marking where a natural gas pipeline traverses underneath his farm last October in rural Scott County in central Illinois.",
                             "credit": "ERIC SCHMID / ST. LOUIS PUBLIC RADIO"
                         },
                         "headline": "The U.S. hopes to build more pipelines for carbon capture. Landowners don't want them",
                         "href": "https://www.stlpr.org/2024-02-05/the-u-s-hopes-to-build-more-pipelines-for-carbon-capture-landowners-dont-want-them",
                         "dek": [
-                            "Thousands of miles of oil and natural gas pipelines already crisscross the country. Now, many more are being proposed to carry things like hydrogen and carbon dioxide as ways to combat climate change.",
-                            "",
-                            ""
+                            "Thousands of miles of oil and natural gas pipelines already crisscross the country.", 
+                            "Now, many more are being proposed to carry things like hydrogen and carbon dioxide as ways to combat climate change."
                         ],
                         "button": [
                             {
