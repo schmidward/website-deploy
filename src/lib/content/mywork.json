@@ -1,5 +1,267 @@
 {
+    "featured": [
+        {
+            "position": 1,
+            "data": {
+                "img": {
+                    "src": "./images/2022-10-18-BM-LITTON-ILLO.jpeg",
+                    "alt": "Photo Illustration"
+                },
+                "hed": "Missouri knew of contamination in Springfield MO's groundwater decades before anyone told residents",
+                "href": "https://news.stlpublicradio.org/health-science-environment/2022-10-19/missouri-knew-of-contamination-in-springfields-groundwater-decades-before-anyone-told-residents"
+            }   
+        },
+        {
+            "position": 2,
+            "data": {
+                "img": {
+                    "src":"./images/2019-06-04_BJ_flood_rdp_1.jpg",
+                    "alt": "Flooding of a drainage ditch."
+                },
+                "hed": "As climate risks increase, Mississippi River towns look to each other for solutions",
+                "href": "https://www.stlpr.org/health-science-environment/2023-12-20/the-river-des-peres-is-a-gross-smelly-eyesore-it-doesnt-have-to-be-that-way"
+            }   
+        },
+        {
+            "position": 3,
+            "data": {
+                "img": {
+                    "src":"./images/2024-08-22_BM_beam-1.jpg",
+                    "alt": "A man taking soil samples on a farm."
+                },
+                "hed": "‘Precision Ag’ promised a farming revolution. It’s coming, just slowly",
+                "href": "https://www.marketplace.org/2024/07/04/precision-agriculture-promised-farming-revolution-its-coming-just-slowly/"
+            }   
+        }
+    ],
     "previews": [ 
+        {
+            "year": "2024",
+            "articles": [
+                {
+                    "slug": "Craft breweries",
+                    "data": {
+                        "img": {
+                            "src": "./images/2023-07-18_BM_beer-12.jpg",
+                            "alt": "Kegs of beer."
+                        },
+                        "caption": {
+                            "text": "Dozens of empty kegs waiting to be filled sit in Earthbound Brewery’s Lager Room at the brewery on Cherokee Street in July 2023.",
+                            "credit": "BRIAN MUÑOZ / ST. LOUIS PUBLIC RADIO"
+                        },
+                        "headline": "St. Louis craft breweries are hurting, but that doesn’t mean the market is going bust",
+                        "href": "https://www.stlpr.org/show/st-louis-on-the-air/2024-10-28/craft-breweries-closing-earthbound-beer-urban-chestnut",
+                        "dek": [
+                            "After 10 years of explosive growth nationally, craft breweries are hurting, with some filing for bankruptcy, closing or both.",
+                            "There are more alcoholic drink options than in years past rivaling beer, and people generally aren’t drinking as much as they may have in the past."
+                        ],
+                        "button": [
+                            {
+                                "text": "Listen to the podcast episode",
+                                "href": "https://www.stlpr.org/show/st-louis-on-the-air/2024-10-28/craft-breweries-closing-earthbound-beer-urban-chestnut"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "slug": "Kernza Beer",
+                    "data": {
+                        "img": {
+                            "src": "./images/2024-09-04_SP_kernza-release-party-06.jpg",
+                            "alt": "Two people drinking glasses of beer."
+                        },
+                        "caption": {
+                            "text": "Gregory Campbell, 66, left, and his wife Cheryl Sachtleben, 66, right, enjoy New Roots, a beer made with kernza, on Sept. 4 during the release party of the brew at the Blue Jay Brewing in St. Louis' Midtown neighborhood.",
+                            "credit": "SOPHIE PROE / ST. LOUIS PUBLIC RADIO"
+                        },
+                        "headline": "Kernza could make agriculture more sustainable. It just needs a market to take off",
+                        "href": "https://www.stlpr.org/economy-business/2024-09-23/kernza-could-make-agriculture-more-sustainable",
+                        "dek": [
+                            "Today’s agricultural staples are planted into the ground each growing season, but Kernza remains in the ground for years, improving soil conditions.",
+                            "This could help it provide massive environmental benefits, but the only problem is that it's only grown on a few thousand acres out of hundreds of millions farmed across the country."
+                        ],
+                        "button": [
+                            {
+                                "text": "Read here",
+                                "href": "https://www.stlpr.org/economy-business/2024-09-23/kernza-could-make-agriculture-more-sustainable"
+                            },
+                            {
+                                "text": "Listen on Science Friday",
+                                "href": "https://www.sciencefriday.com/segments/kernza-beer-sustainable-grain/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "slug": "Ferguson//Dellwood Recovery",
+                    "data": {
+                        "img": {
+                            "src": "./images/2024-08-07_BM_biz-9.jpg",
+                            "alt": "A man rides a bicycle past a sign"
+                        },
+                        "caption": {
+                            "text": "A pedestrian rides by the future home of the Urban League's Plaza in Dellwood, MO in August 2024. The league plans to build spaces for store fronts, a bank and a small community gathering space.",
+                            "credit": "BRIAN MUÑOZ / ST. LOUIS PUBLIC RADIO"
+                        },
+                        "headline": "West Florissant Avenue burned in the 2014 Ferguson unrest. Its recovery has been uneven",
+                        "href": "https://www.stlpr.org/economy-business/2024-08-09/west-florissant-avenue-burned-ferguson-economic-recovery",
+                        "dek": [
+                            "The Ferguson uprising in 2014 destroyed many businesses in and around the north St. Louis municipality.",
+                            "Recovery has been slow going, but the communities surrounding West Florrisant have been the driving force behind its continuing economic rebound over the past decade."
+                        ],
+                        "button": [
+                            {
+                                "text": "Read here",
+                                "href": "https://www.stlpr.org/economy-business/2024-08-09/west-florissant-avenue-burned-ferguson-economic-recovery"
+                            },
+                            {
+                                "text": "Listen on NPR",
+                                "href": "https://www.npr.org/2024/08/11/nx-s1-5055850/in-ferguson-some-businesses-destroyed-during-the-2014-protests-are-still-rebuilding"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "slug": "Dead Zone",
+                    "data": {
+                        "img": {
+                            "src": "./images/2024-04-24_EL_runoff-6.jpg",
+                            "alt": "Farmland scene from an airplane."
+                        },
+                        "caption": {
+                            "text": "Fertilizer runoff from farmland, like these farms seen along the Mississippi River in Missouri in April 2024, is a major contributor to the dead zone in the Gulf of Mexico. Aerial support provided by LightHawk.",
+                            "credit": "ERIC LEE / ST. LOUIS PUBLIC RADIO"
+                        },
+                        "headline": "As conservation lags, so does progress slashing Gulf of Mexico's 'dead zone'",
+                        "href": "https://www.stlpr.org/health-science-environment/2024-06-24/missouri-gulf-of-mexico-fertilizer-runoff",
+                        "dek": [
+                            "One year away from a federal deadline to reduce nutrient runoff into the Gulf of Mexico by 20%, increases in tile drainage, livestock and fertilizer use have made success unlikely.  ",
+                            "",
+                            ""
+                        ],
+                        "button": [
+                            {
+                                "text": "Read here",
+                                "href": "https://www.stlpr.org/health-science-environment/2024-06-24/missouri-gulf-of-mexico-fertilizer-runoff"
+                            },
+                            {
+                                "text": "Listen on NPR",
+                                "href": "https://www.npr.org/2024/08/15/nx-s1-5053072/to-heal-the-gulf-of-mexicos-dead-zone-we-have-to-look-north-to-midwest-farms"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "slug": "Precision Ag",
+                    "data": {
+                        "img": {
+                            "src": "./images/2024-08-22_BM_beam-1.jpg",
+                            "alt": "A man taking soil samples on a farm."
+                        },
+                        "caption": {
+                            "text": "Impossible Sensing’s Matt Colgan, left, digs up a soil sample as Cody Hyman, right, uses a device that reads the soil’s chemical makeup at Reckamp Farms in Wright City, MO in August 2024.",
+                            "credit": "BRIAN MUÑOZ / ST. LOUIS PUBLIC RADIO"
+                        },
+                        "headline": "‘Precision Ag’ promised a farming revolution. It’s coming, just slowly",
+                        "href": "https://www.stlpr.org/economy-business/2024-06-13/precision-agriculture-farming-revolution-is-coming",
+                        "dek": [
+                            "The prospect of precision agriculture has existed for decades, but many of the technologies and techniques that will enable it have been slow to catch on.",
+                            "One company hopes to speed that up with the development of a new rapid and high-precision soil sensor.",
+                            ""
+                        ],
+                        "button": [
+                            {
+                                "text": "Read here",
+                                "href": "https://www.stlpr.org/economy-business/2024-06-13/precision-agriculture-farming-revolution-is-coming"
+                            },
+                            {
+                                "text": "Listen on Marketplace",
+                                "href": "https://www.marketplace.org/2024/07/04/precision-agriculture-promised-farming-revolution-its-coming-just-slowly/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "slug": "Tech Jobs",
+                    "data": {
+                        "img": {
+                            "src": "./images/2024-04-25_EL_techjobs04.jpg",
+                            "alt": "A man smiles among a group seated together."
+                        },
+                        "caption": {
+                            "text": "Arthur Holt 52, of Sappington, meets other tech workers during a working event hosted by Founders Lounge at Aloft St. Louis Cortex in the Central West End in April 2024.",
+                            "credit": "ERIC LEE / ST. LOUIS PUBLIC RADIO"
+                        },
+                        "headline": "Decline in tech job listings puts a focus on local startups, but challenges abound",
+                        "href": "https://www.stlpr.org/economy-business/2024-05-09/st-louis-tech-job-decline-puts-focus-on-startups",
+                        "dek": [
+                            "The number of job postings for tech positions in the St. Louis region sharply declined from 2022 to 2023.",
+                            "To hold onto that existing tech talent, some regional leaders are pushing for more support for startups. But it’s not a quick or easy fix."
+                        ],
+                        "button": [
+                            {
+                                "text": "Read here",
+                                "href": "https://www.stlpr.org/economy-business/2024-05-09/st-louis-tech-job-decline-puts-focus-on-startups"
+                            },
+                            {
+                                "text": "Listen on Marketplace",
+                                "href": "https://www.marketplace.org/2024/06/13/st-louis-tech-hiring-next-tech-hub/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "slug": "Vacant Properties",
+                    "data": {
+                        "img": {
+                            "src": "./images/2024-02-19_EL_demolition07.jpg",
+                            "alt": "A row of buildings being demolished."
+                        },
+                        "caption": {
+                            "text": "A crew member from Bellon Wrecking surveys after the first step in a demolition job on South Kingshighway last month in Forest Park Southeast.",
+                            "credit": "BRIAN MUÑOZ / ST. LOUIS PUBLIC RADIO"
+                        },
+                        "headline": "What a row of crumbling Kingshighway homes can tell us about St. Louis' vacancy",
+                        "href": "https://www.stlpr.org/economy-business/2024-03-15/what-a-row-of-crumbling-kingshighway-homes-can-tell-us-about-st-louis-vacancy",
+                        "dek": [
+                            "The demolition of seven prominent vacant properties St. Louis' central corriodr puts a spotlight on the city's roughly 20,000 vacant properties.",
+                            "Most are tucked away in parts of north St. Louis and rarely seen by passers by."
+                        ],
+                        "button": [
+                            {
+                                "text": "Read and Listen",
+                                "href": "https://www.stlpr.org/economy-business/2024-03-15/what-a-row-of-crumbling-kingshighway-homes-can-tell-us-about-st-louis-vacancy"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "slug": "CO2 Pipelines",
+                    "data": {
+                        "img": {
+                            "src": "./images/2023-10-09_ES_kenny-davis-2.jpg",
+                            "alt": "A man stands next to a gas pipeline flag"
+                        },
+                        "caption": {
+                            "text": "Kenny Davis stands next to the yellow tag marking where a natural gas pipeline traverses underneath his farm last October in rural Scott County in central Illinois.",
+                            "credit": "ERIC SCHMID / ST. LOUIS PUBLIC RADIO"
+                        },
+                        "headline": "The U.S. hopes to build more pipelines for carbon capture. Landowners don't want them",
+                        "href": "https://www.stlpr.org/2024-02-05/the-u-s-hopes-to-build-more-pipelines-for-carbon-capture-landowners-dont-want-them",
+                        "dek": [
+                            "Thousands of miles of oil and natural gas pipelines already crisscross the country.", 
+                            "Now, many more are being proposed to carry things like hydrogen and carbon dioxide as ways to combat climate change."
+                        ],
+                        "button": [
+                            {
+                                "text": "Read and Listen",
+                                "href": "https://www.stlpr.org/2024-02-05/the-u-s-hopes-to-build-more-pipelines-for-carbon-capture-landowners-dont-want-them"
+                            }
+                        ]
+                    }
+                }   
+            ]
+        },
         {
             "year": "2023",
             "articles": [

@@ -8,7 +8,7 @@
 <section class="relative w-screen h-screen">
     <div 
         class="bg-fixed bg-left-top bg-cover w-full h-full" 
-        style="background-image: url('./images/home-image-bikes.jpeg');">
+        style="background-image: url('./images/home-image-bikes.jpg');">
         <div class="bg-blue/40 w-full h-full">
             <div class="flex flex-col items-center justify-center w-full h-full">
                 <p class="text-white font-semibold text-5xl sm:text-7xl md:text-9xl text-center">Eric D. Schmid</p>
