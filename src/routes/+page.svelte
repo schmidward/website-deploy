@@ -52,7 +52,7 @@
                 NPR</a></span>,
             <span class="text-dark-red hover:text-hover-red"><a href="https://undark.org/undark-author/eric-schmid-st-louis-public-radio/" target="_blank">
                 Undark Magazine</a></span>. 
-            He loves the challenge that comes with learning something new and regularly looks for any opportunity expand his already diverse skillset.</p>
+            He loves the challenge that comes with learning something new and regularly looks for any opportunity to expand his already diverse skillset.</p>
         <p class="py-3">Eric joined St. Louis Public Radio in June 2019 as a Report for America Corps Member, tasked with developing and leading the station’s 
             coverage strategy of suburban St. Louis communities in Illinois. In June 2022, he was promoted to cover 
             economic development across the 2.8 million-person St. Louis region.</p>
