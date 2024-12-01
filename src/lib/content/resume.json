@@ -2,7 +2,7 @@
     "software": {
         "name": "Eric D. Schmid",
         "subhead": "Software Developer in St. Louis, MO",
-        "dek": "I excel asking thoughtful and pointed questions that cut to the heart of an issue or topic and I relish the chllenge of distilling complex information into clear and manageable packages. My experience as an investigative journalist equips me with the skills to quickly solve complex problems and it means I'm comfortable communicating and collaborating with anyone.",
+        "dek": "I ask thoughtful questions that cut to the heart of a subject, and effortlessly distill complex information from interviews, documents and other data sources into clear and engaging narratives. My experience in journalism makes me comfortable leading professional communications with diverse stakeholders, including organizational leaders, community members, and technical experts. I'm highly organized and detail-oriented, with a proven ability to collaborate and meet deadlines while managing competing priorities across short-, medium-, and long-term projects.",
         "links": [
             {
                 "text": "GitHub: ",
@@ -138,8 +138,8 @@
     },
     "journalism": {
         "name": "Eric D. Schmid",
-        "subhead": "Investigative Journlaist in St. Louis, MO",
-        "dek": "A skilled multimedia journalist who excels under deadline pressure and delivers superior quality data- and document-driven and investigative reporting. Exhibits advanced skill managing competing daily responsibilities while developing long-term coverage about economics, the environment, and public policy. Applies strong editorial and ethical standards to produce thoughtful, innovative, and compelling reporting across multiple platforms.",
+        "subhead": "St. Louis, MO-Based Multimedia Creative",
+        "dek": "I ask thoughtful questions that cut to the heart of a subject, and effortlessly distill complex information from interviews, documents and other data sources into clear and engaging narratives. My experience in journalism makes me comfortable leading professional communications with diverse stakeholders, including organizational leaders, community members, and technical experts. I'm highly organized and detail-oriented, with a proven ability to collaborate and meet deadlines while managing competing priorities across short-, medium-, and long-term projects.",
         "links": [
             {
                 "text": "GitHub: ",
@@ -152,97 +152,77 @@
         ],
         "experienceHed": "Professional Experience",
         "experiences": [
+                        {
+                "title": "Contributing Reporter",
+                "subhead": "The Mississippi River Basin Ag & Water Desk",
+                "date": "September 2023 - Present",
+                "dek": "Produces in-depth coverage of topics related to agriculture, environment, energy, infrastructure one of the worlds largest river basins",
+                "subdek": [
+                    "• Articles distributed to hundreds of local, regional, and national outlets for republication reaching 100M+ people annually",
+                    "• Crafts accessible and engaging narratives from multiple interviews and data sources",
+                    "• Collaborates with staff across multiple organizations to deliver high-impact and multi-part reporting on complex topics including nitrogen fertilizer runoff, insurance, disaster recovery"
+                ]
+            },
             {
                 "title": "Economic Development Reporter",
                 "subhead": "St. Louis Public Radio, St. Louis, MO",
                 "date": "June 2022 - Present",
-                "dek": "Covers efforts from local businesses, governments, universities, and nonprofits to create more economic opportunity for the St. Louis Region’s population of 2.8 million",
+                "dek": "Produces high-performing articles that cover efforts by local businesses, governments, universities, and nonprofits to expand economic opportunity in the 2.8M-person St. Louis region, contributing to a platform with 4M+ annual unique users",
                 "subdek": [
-                    "• Promoted after three years of outstanding performance in previous position",
-                    "• Consistently meets strict publication expectations: 2 daily stories/week, 2 features/month",
-                    "• Produces high performing digital articles reaching 200,000+ unique viewers a year"
-                ]
-            },
-            {
-                "title": "Contributing Reporter",
-                "subhead": "The Mississippi River Basin AG & Water Desk",
-                "date": "September 2023 - Present",
-                "dek": "Covers efforts from local businesses, governments, universities, and nonprofits to create more economic opportunity for the St. Louis Region’s population of 2.8 million",
-                "subdek": [
-                    "• Researches, writes and produces print and radio articles about issues including the environment, agriculture, energy, infrastructure and others affecting the 10 states the Mississippi River traverses",
-                    "• Articles published on the AP StoryShare platform reaching millions of unique viewers through republication in local, regional, and national news outlets"
+                    "• Promoted after three years of exceptional performance in previous role",
+                    "• Leads interviews, focus groups, and professional communications that foster trust with community members, technical experts, and business and government leaders",
+                    "• Manages a robust network of community contacts and a strong understanding of St. Louis to uncover stories that resonate with audiences"
                 ]
             },
             {
                 "title": "Metro East Reporter",
                 "subhead": "St. Louis Public Radio, Belleville, IL",
                 "date": "June 2019 - June 2022",
-                "dek": "Worked remotely producing articles about suburban Illinois communities adjacent to St. Louis",
+                "dek": "Worked remotely in Belleville, IL bureau producing in-depth and revelatory reporting about suburban communities in Southwestern Illinois",
                 "subdek": [
-                    "• Pioneered news coverage for 750,000 people who hadn’t been previously served, improving public accountability with multiple enterprise and investigative articles",
-                    "• Among Report for America’s second cohort of corps members"
+                    "• Developed and led St. Louis Public Radio's strategy to expand news coverage to 750K+ people that the organization hadn't previously targeted"
                 ]
             },
             {
                 "title": "Freelance Reporter",
-                "subhead": "National Public Radio, Marketplace, Science Friday",
+                "subhead": "National Public Radio, Science Friday, Marketplace",
                 "date": "April 2018 - Present",
-                "dek": "Produces original news content for programs that reach up to 46 million people a week",
+                "dek": "Reports and produces original news content for nationally broadcast news programs that reach 40M+ people a week including Morning Edition, All Things Considered, Marketplace",
                 "subdek": [
-                    "• Files sound-rich feature articles and those appearing on newscasts and digital platforms",
-                    "• Has appeared on nationally syndicated talk shows “Here & Now” and “Science Friday” to discuss original investigative reporting"
-                ]
-            },
-            {
-                "title": "News Fellow",
-                "subhead": "WSHU Public Radio, Stony Brook, NY",
-                "date": "January 2018 - September 2018",
-                "dek": "Worked in Long Island News Bureau pitching, producing daily and enterprise stories for web and broadcast audiences across Connecticut and Long Island",
-                "subdek": [
-                    "• Supervised, edited and trained 5 news interns in reporting, script writing, and audio mixing",
-                    "• Helped solidify WSHU’s coverage expansion to 200,000 people on Eastern Long Island"
-                ]
-            },
-            {
-                "title": "Dow Jones News Fund Digital Media Intern",
-                "subhead": "AccuWeather, State College, PA",
-                "date": "June 2018 - August 2018",
-                "dek": "Pitched, produced, and edited news packages and digital-first videos for AccuWeather’s website, social media, and national T.V. broadcast network as one of 20 Dow Jones News Fund Digital Media Interns placed at newsrooms nationwide",
-                "subdek": [
-                    "• Filled content gaps by working collaboratively within AccuWeather’s 10-person video team",
-                    "• Produced video content topping 5 million views on company’s website and social media"
+                    "• Appears on nationally syndicated talk shows, 'Here & Now' and 'Science Friday,' to discuss investigative and enterprise reporting"
                 ]
             }
         ],
         "educationHed": "Education",
         "education": [
             {
-                "title": "LaunchCode",
-                "subhead": " - St. Louis, MO",
-                "dek": "30-week full-stack development course in JavaScript, Angular, Java, and Spring Boot"
-            },
-            {
-                "title": "Investigative Reporters and Editors",
-                "subhead": " - Columbia, MO",
-                "dek": "Data Journalism Bootcamp"
-            },
-            {
                 "title": "Stony Brook University",
                 "subhead": " - Stony Brook, NY",
                 "dek": "Bachelor of Arts in Journalism, Business Management Minor"   
-            }
+            },
+            {
+                "title": "LaunchCode",
+                "subhead": " - St. Louis, MO",
+                "dek": "30-week full-stack development course in JavaScript, Angular, Java, and Spring Boot"
+            }            
         ],
         "skillsHed": "Technical Proficiencies",
         "skills": [
             {
-                "title": "Programming Languages & Frameworks",
+                "title": "Design",
+                "dek": [
+                    "• InDesign",
+                    "• Illustrator",
+                    "• Photoshop"
+                ]
+            },
+            {
+                "title": "Programming",
                 "dek": [
                     "• JavaScript",
-                    "• Java",
                     "• HTML5 / CSS3",
-                    "• React",
                     "• Svelte",
-                    "• Spring Boot"
+                    "• D3"
                 ]
             },
             {
@@ -250,13 +230,6 @@
                 "dek": [
                     "• Excel",
                     "• SQL"
-                ]
-            },
-            {
-                "title": "Databases",
-                "dek": [
-                    "• MySQL",
-                    "• PostgreSQL"
                 ]
             },
             {
@@ -274,8 +247,14 @@
                 "dek": ["For original and revelatory watchdog journalism exposing a 25-year coverup of toxic groundwater contamination in Springfield, Missouri."]
             },
             {
+                "title": "Panel Moderator & Speaker",
+                "dek": [
+                    "2024 Niman Ranch Hog Farmer Appreciation Celebration"
+                ]
+            },
+            {
                 "title": "2024 Missouri Broadcasters Association Awards",
-                "dek": ["Best Hard News Reporting"]
+                "dek": ["Best Hard News - 1st place"]
             },
             {
                 "title": "2023 INBA Crystal Mic Awards",

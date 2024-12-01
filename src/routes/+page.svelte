@@ -7,12 +7,12 @@
 <body>
 <section class="relative w-screen h-screen">
     <div 
-        class="bg-fixed bg-left-top bg-cover w-full h-full" 
+        class="bg-fixed bg-left bg-cover w-full h-full" 
         style="background-image: url('./images/home-image-bikes.jpg');">
         <div class="bg-blue/40 w-full h-full">
             <div class="flex flex-col items-center justify-center w-full h-full">
                 <p class="text-white font-semibold text-5xl sm:text-7xl md:text-9xl text-center">Eric D. Schmid</p>
-                <p class="text-white text-3xl sm:text-5xl md:text-7xl mt-7 text-center">Investigative Journalist</p>
+                <p class="text-white text-3xl sm:text-5xl md:text-7xl mt-7 text-center">Multimedia Creative</p>
             </div>
         </div>
     </div>
@@ -31,21 +31,19 @@
                 <span class="font-bold text-dark-red hover:text-hover-red"><a href="https://news.stlpublicradio.org/people/eric-schmid" target="_blank">
                     Eric Schmid
                 </a></span> 
-            is a multimedia journalist based in St. Louis with over five years of experience in print-, digital-, and audio-focused newsrooms. He has demonstrated 
-            success developing 
-                <span class="text-dark-red hover:text-hover-red"><a href="https://news.stlpublicradio.org/people/eric-schmid" target="_blank">
-                    strong continuing news coverage
-                </a></span> 
-            and producing large scale reporting projects both 
+            is an accomplished multimedia creative based in St. Louis with over six years of experience as a print, digital, and radio journalist. He asks 
+            thoughtful questions that cut to the heart of a subject matter and has a keen ability to distill swaths of complex information into accessible, dynamic, 
+            and engaging narratives. Eric has demonstrated success managing large scale projects both   
                 <span class="text-dark-red hover:text-hover-red"><a href="https://news.stlpublicradio.org/economy-business/2022-02-16/workers-at-dozens-of-metro-east-warehouses-have-no-safe-rooms-to-shelter-from-tornadoes" target="_blank">
                     independently
                 </a></span> 
             and as 
                 <span class="text-dark-red hover:text-hover-red"><a href="https://news.stlpublicradio.org/health-science-environment/2022-10-19/missouri-knew-of-contamination-in-springfields-groundwater-decades-before-anyone-told-residents" target="_blank">
-                    part of a team</a></span>. 
-            This includes advanced skill with source building, story pitching, public records, long-term coverage planning, interviewing, and audio editing/mixing.</p>
+                    part of a team</a></span> 
+            and exhibits advanced skill fostering trust with community contacts, leading interviews and focus groups, writing for general audiences and subject matter experts, 
+            developing long-term plans and strategies, and producing multimedia content for many platforms.</p>
         <p class="py-3">
-            Eric's experience spans breaking and hard news to enterprise and investigative features and his work has appeared in 
+            As a journalist, he has garnered awards and national recognition for his revelatory investigative reporting and has had work appeared many regional and national publications including 
             <span class="text-dark-red hover:text-hover-red"><a href="https://grist.org/author/eric-schmid-st-louis-public-radio/" target="_blank">
                 Grist</a></span>, 
             <span class="text-dark-red hover:text-hover-red"><a href="https://www.marketplace.org/author/eric-schmid/" target="_blank">
@@ -53,17 +51,11 @@
             <span class="text-dark-red hover:text-hover-red"><a href="https://www.npr.org/" target="_blank">
                 NPR</a></span>,
             <span class="text-dark-red hover:text-hover-red"><a href="https://undark.org/undark-author/eric-schmid-st-louis-public-radio/" target="_blank">
-                Undark Magazine</a></span>,
-             and other publications. He gravitates toward complicated and nuanced stories and he enjoys the challenge of distilling large swaths of information into cohesive, intriguing, and concise stories. Eric can cover many topics, though his 
-            enterprise work regularly focuses on stories about the 
-                <span class="text-dark-red hover:text-hover-red"><a href="https://news.stlpublicradio.org/health-science-environment/2023-06-29/wetlands-restoration-is-key-to-avoiding-the-worst-of-future-floods-along-the-mississippi" target="_blank">
-                    environment</a></span>, and
-                <span class="text-dark-red hover:text-hover-red"><a href="https://www.stlpr.org/economy-business/2023-11-03/why-downtown-st-louis-needs-more-than-just-office-space-to-bounce-back-from-the-pandemic" target="_blank">
-                    economics</a></span>.
-        </p>
-        <p class="py-3">Eric joined St. Louis Public Radio in June 2019 as their first ever Metro East Reporter, tasked with expanding and developing the station’s 
-            coverage of suburban St. Louis communities in Illinois east, of the Mississippi River. In June 2022, he was promoted to cover economic development across St. 
-            Louis, a region of 2.8 million people.</p>
+                Undark Magazine</a></span>. 
+            He loves the challenge that comes with learning something new and regularly looks for any opportunity expand his already diverse skillset.</p>
+        <p class="py-3">Eric joined St. Louis Public Radio in June 2019 as a Report for America Corps Member, tasked with developing and leading the station’s 
+            coverage strategy of suburban St. Louis communities in Illinois. In June 2022, he was promoted to cover 
+            economic development across the 2.8 million-person St. Louis region.</p>
         <p class="py-3">Before joining St. Louis Public Radio, Eric held internships at Fox News Channel, NPR member station WSHU Public Radio, and AccuWeather. He graduated from 
             <span class="text-dark-red hover:text-hover-red"><a href="https://www.stonybrook.edu/" target="_blank">
                 Stony Brook University
