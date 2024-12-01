@@ -17,7 +17,8 @@
                 <img src="./images/headshot-crop.jpg" alt="Eric Schmid" />
                 <div class="flex justify-center mr-5 ml-5">
                     <a  class="bg-red text-white mt-6 mb-3 p-5 text-center hover:bg-hover-red" 
-                    href="mailto:eschmid@stlpr.org">
+                    href="mailto:eric.d.schmid1@gmail.com?subject=Web Inquiry"
+                    target="_top">
                     Contact Me
                     </a>
                 </div>
