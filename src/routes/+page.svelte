@@ -7,7 +7,7 @@
 <body>
 <section class="relative w-screen h-screen">
     <div 
-        class="bg-fixed bg-left bg-cover w-full h-full" 
+        class="bg-fixed bg-center-top bg-auto sm:bg-cover w-full h-full" 
         style="background-image: url('./images/home-image-bikes.jpg');">
         <div class="bg-blue/40 w-full h-full">
             <div class="flex flex-col items-center justify-center w-full h-full">
