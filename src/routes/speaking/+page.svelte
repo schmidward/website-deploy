@@ -22,7 +22,7 @@
                     <li>- The date, time and event location</li>
                     <li>- A short event description</li>
                     <li>- Anticipated audience demographics (professionals, students, etc.)</li>
-                    <li>- What you wat to stick with attendees afterward</li>
+                    <li>- What you want to attendees to take away from the even</li>
                 </ul>
                 <p class="mt-7">These don’t need to fully fleshed out and are more intended to help start the conversation with Eric to help him plan a memorable and impactful event for you.</p>
                 <div class="flex justify-center mr-5 ml-5">
